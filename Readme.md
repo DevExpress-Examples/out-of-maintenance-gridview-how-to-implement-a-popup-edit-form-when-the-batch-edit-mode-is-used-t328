@@ -12,7 +12,7 @@
 <!-- default file list end -->
 # GridView - How to implement a popup Edit Form when the Batch Edit mode is used
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t328405)**
+**[[Run Online]](https://codecentral.devexpress.com/t328405/)**
 <!-- run online end -->
 
 
